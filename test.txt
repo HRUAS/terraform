@@ -13,4 +13,5 @@ change for merge-3
 change for merge-4
 change for merge-5
 =======================
+change for rebase-6
 change for rebase-7
